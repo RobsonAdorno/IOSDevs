@@ -10,8 +10,8 @@
 		BA1456BA203DF09B008BA009 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1456B9203DF09B008BA009 /* AppDelegate.swift */; };
 		BA1456BC203DF09B008BA009 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1456BB203DF09B008BA009 /* ViewController.swift */; };
 		BA1456BF203DF09B008BA009 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA1456BD203DF09B008BA009 /* Main.storyboard */; };
-		BA1456C1203DF09B008BA009 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA1456C0203DF09B008BA009 /* Assets.xcassets */; };
 		BA1456C4203DF09B008BA009 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA1456C2203DF09B008BA009 /* LaunchScreen.storyboard */; };
+		BA1A2DC4203EF96A0026977D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA1456C0203DF09B008BA009 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA1456C4203DF09B008BA009 /* LaunchScreen.storyboard in Resources */,
-				BA1456C1203DF09B008BA009 /* Assets.xcassets in Resources */,
+				BA1A2DC4203EF96A0026977D /* Assets.xcassets in Resources */,
 				BA1456BF203DF09B008BA009 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,7 +273,7 @@
 		BA1456C9203DF09B008BA009 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2B9637R63T;
 				INFOPLIST_FILE = IMC/Info.plist;
@@ -288,7 +288,7 @@
 		BA1456CA203DF09B008BA009 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2B9637R63T;
 				INFOPLIST_FILE = IMC/Info.plist;
